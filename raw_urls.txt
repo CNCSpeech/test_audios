@@ -1,37 +1,27 @@
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/C020_JEG_NEUTRO_LIBRE.wav__2023-11-10_16_23_01.538681+00_00__20231110__a__oJm1.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Happy_memory__QhL4.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Video_narration__yvdd.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Syllables__hx6Y.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Sustained_vowel__9yvN.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Picture_description_1__4EZw.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Routine__2pk3.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Paragraph_reading__nQty.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Car_without_wheels__pR60.webm
-https://github.com/asosawelford/test_audios/raw/main/Test audios UCSF/34554__20231128__Picture_description_2__SRD2.webm
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_11_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_male_short_2.webm
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_12_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_8_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_7_animales_16kHzNormChan_LoudNorm_Denoised.wav
 https://github.com/asosawelford/test_audios/raw/main/speech/es_female_letra_a_unprocessed_mono.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/1.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_5_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_9_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_letra_a_unprocessed.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_1_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_male_short.webm
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_4_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_2_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/speech_es_male_short_2.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_11_animales_16kHzNormChan_LoudNorm_Denoised.wav
 https://github.com/asosawelford/test_audios/raw/main/speech/es_male_6_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_letra_a_unprocessed.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_12_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_5_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_male_short.webm
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_1_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_2_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_9_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/speech_es_male_short_2.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/1.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_8_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_male_short_2.webm
 https://github.com/asosawelford/test_audios/raw/main/speech/es_female_3_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/speech/es_female_letra_f_unprocessed.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_7_animales_16kHzNormChan_LoudNorm_Denoised.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_4_animales_16kHzNormChan_LoudNorm_Denoised.wav
 https://github.com/asosawelford/test_audios/raw/main/speech/es_female_10_animales_16kHzNormChan_LoudNorm_Denoised.wav
-https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/220.mp3
-https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/noise.wav
+https://github.com/asosawelford/test_audios/raw/main/speech/es_female_letra_f_unprocessed.wav
+https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/tone220.wav
+https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/empty.wav
 https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/sin_220.wav
 https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/background_noise_10_s.wav
-https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/empty.wav
-https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/tone220.wav
 https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/sin_440.wav
+https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/noise.wav
+https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/220.mp3
 https://github.com/asosawelford/test_audios/raw/main/noise_and_edge_cases/sin_sum.wav
